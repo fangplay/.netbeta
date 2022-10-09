@@ -16313,6 +16313,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\back-end-dev\\.netbeta\\Views\\Home\\About.cshtml",
+      "TargetPath": "Views\\Home\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\back-end-dev\\.netbeta\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -16320,6 +16325,11 @@
     {
       "FilePath": "d:\\back-end-dev\\.netbeta\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\back-end-dev\\.netbeta\\Views\\Home\\Generations.cshtml",
+      "TargetPath": "Views\\Home\\Generations.cshtml",
       "FileKind": "mvc"
     },
     {
